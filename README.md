@@ -10,7 +10,7 @@
 * logout <br>
 ![alt text](https://github.com/Ikhwan19/Praktikum03/blob/master/tugasmd5/logout.JPG)
 * PopUpBerhasil  <br>
-![alt text](https://github.com/Ikhwan19/Praktikum03/blob/master/tugasmd5/pop%20up%20%20berhasil.JPG)
+![alt text](https://github.com/Ikhwan19/Praktikum03/blob/master/tugasmd5/pop%20up%20berhasil.JPG)
 * PopUpGagal <br>
 ![alt text](https://github.com/Ikhwan19/Praktikum03/blob/master/tugasmd5/pop%20up%20%20gagal.JPG)
 
